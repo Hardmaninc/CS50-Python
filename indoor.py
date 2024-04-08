@@ -1,0 +1,1 @@
+name = print(input("Please tell me something ? \n").lower())
